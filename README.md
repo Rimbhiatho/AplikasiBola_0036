@@ -1,16 +1,17 @@
-# taks_two
+# AplikasiBola_0036
+Alikasi pendaftaran pemain bola untuk persib
 
-A new Flutter project.
+## Tujuan
+Menyediakan antarmuka yang intuitif dan responsif untuk menampilkan data pemain, jadwal pertandingan, dan menu interaktif lainnya.
 
-## Getting Started
+## Fitur Utama
+- Tampilan menu utama dengan ikon dan label
+- Form login dengan validasi password dan konfirmasi
+- Navigasi antar halaman
+- Desain UI responsif dan bersih
+- Validasi input menggunakan `TextFormField`
+- Toggle visibilitas password dengan ikon
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Video Demo
+Lihat demo aplikasi di Google Drive:  
+https://drive.google.com/file/d/1FO7l6i1jOm32f6fmPEEAlhk5GrkkiCX3/view?usp=sharing
